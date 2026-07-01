@@ -2,8 +2,11 @@
 High-Density Morphology-Aware Silkworm Counting dataset
 
 ## Dataset Download
-The dataset can be downloaded from here:
+HD-SilkMorphCount dataset is available for academic research.
+Please submit the request form below:
 https://drive.google.com/file/d/1IUzcal1QbamJlI-duggMwZprVx1O7Wvc/view?usp=drive_link
+After verification, the download link will be sent to your email.
+
 ## Representative Images from the Dataset
 <p align="center"> <img src="https://github.com/ahtya/HD-SilkMorphCount/blob/main/images.png" width="800"> </p>
 
